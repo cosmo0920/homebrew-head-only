@@ -1,6 +1,6 @@
 class FluentBit < Formula
   desc "Data Collector for IoT"
-  homepage "http://fluentbit.io/"
+  homepage "https://github.com/fluent/fluent-bit"
   head "https://github.com/fluent/fluent-bit.git"
 
   depends_on "cmake" => :build
